@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taofik Sulaimon</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend Engineer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://elements-video-cover-images-0.imgix.net/files/261073161/code_1_loop_img.jpg?auto=compress%2Cformat&h=506&w=900&fit=min&s=5c2c7a1a8876b1a553a6ff679702299a.gif" > 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taofik01&label=Profile%20views&color=0e75b6&style=flat" alt="taofik01" /> </p>
 
