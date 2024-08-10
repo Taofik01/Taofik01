@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on **Thrivefuse**
+- 🔭 I’m currently working on **Flatshare**
 
-- 🌱 I’m currently learning **Next.js, C++, **
+- 🌱 I’m currently learning **Next.js, C++, Vue.js, Nuxt **
 
-- 💬 Ask me about **React , front-end development**
+- 💬 Ask me about **React , front-end development, DBMS, Hardware programming and IOT**
 
 - 📫 How to reach me **sulaimontaofik08@gmail.com**
 
