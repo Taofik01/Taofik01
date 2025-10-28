@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Flatshare**
+- 🔭 I’m currently working on **SPlitmate**
 
 - 🌱 I’m currently learning **Next.js, C++, Vue.js, Nuxt **
 
